@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 航行器控制中心
 
 #### 介绍
@@ -44,6 +45,28 @@ RT-Thread
 1. NULL available
 2. NULL available
 3. NULL available
+=======
+# 13th-NXP-JMU双车会车2018
+
+#### 介绍
+2018 JMU双车会车所有资料
+
+#### 软件架构
+软件架构说明
+
+
+#### 安装教程
+
+1. xxxx
+2. xxxx
+3. xxxx
+
+#### 使用说明
+
+1. xxxx
+2. xxxx
+3. xxxx
+>>>>>>> d023a4061f82c081799404d46ece40211858601f
 
 #### 参与贡献
 
@@ -60,6 +83,10 @@ RT-Thread
 3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
 4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
 5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
+<<<<<<< HEAD
 6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
 
 
+=======
+6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+>>>>>>> d023a4061f82c081799404d46ece40211858601f
