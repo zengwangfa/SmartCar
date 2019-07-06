@@ -17,7 +17,7 @@ NXP智能车
 |主频| 180MHz |
 |单元| FPU |
 
-
+![competition](/docs/competition.gif)
 
 # 2.目录说明
 ```
@@ -63,6 +63,8 @@ NXP智能车
 |    └──Peripherals Init 【系统内核初始化】                  
 |    ├──Flash Read 【读取FLASH参数】
 |    ├── Mode 【选择模式】 
+|           └── Image Processing 【图像处理】 
+|           └── Electromagnetic data processing 【电磁数据处理】 
 |           └── Speed control 【速度控制】 
 |           ├── Steering control 【方向控制】 
 |           ├── Communication control 【通讯逻辑控制】 
